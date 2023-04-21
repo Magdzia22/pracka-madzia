@@ -1,0 +1,10 @@
+.metrics {
+    color: black;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 25px;
+    border-top: 1px solid lightgray;
+    display: flex;
+    justify-content: center;
+  }

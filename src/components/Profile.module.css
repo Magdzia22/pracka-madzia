@@ -1,0 +1,19 @@
+.card{
+    background: white;
+    color: black;
+    display: block;
+    width: 300px;
+    margin: auto;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.topCard{
+    height: 120px;
+display: flex;
+justify-content: center;
+align-items: flex-end;
+    background-image: url(./piekne-ciemnozielone-turkusowe-rocznika-kolor-tendencji-pioro-tekstura-tlo-700-140067583.jpg); 
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin: 0;
+}

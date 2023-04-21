@@ -1,0 +1,16 @@
+  .description {
+    background-color: white;
+    display: inline-block;
+    width: 70px;
+    font-size: 10px;
+    color: grey;
+    margin-bottom: 15px;
+  }
+  .metric {
+    background-color: white;
+    font-weight: bold;
+    display: inline-block;
+    color: black;
+    border-radius: 10px;
+    padding-top: 10px;
+}
